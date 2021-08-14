@@ -5,6 +5,7 @@ title: Full Stack Web Development Course
 
 
 # Full Stack Web Development Course 
+ReactJS, NodeJS, Express, MySQL, Sequelizeなどの技術を用いてフルスタックのWebアプリを開発する方法を学びます。  
 
 [![hackmd-github-sync-badge](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg/badge)](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg)
 
@@ -14,15 +15,17 @@ title: Full Stack Web Development Course
 
 ## １．ReactJS, NodeJS, Express, MySQL - Introduction
 
-> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)
+
+
+> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)  
 >[解説動画](https://youtu.be/Hl7diL7SFw8)
 
 ## ２．ReactJS, NodeJS, MySQL - GET and POST Requests
-> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)
+> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)  
 >[解説動画](https://youtu.be/pJx-HGwaL3w)
 
 ## ３．ReactJS, NodeJS, MySQL - Connecting React to NodeJS
-> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode3)
+> [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode3)  
 >[解説動画](https://youtu.be/DO_wR1tx-O0)
 
 
