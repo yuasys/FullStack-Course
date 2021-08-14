@@ -5,7 +5,7 @@ title: Full Stack Web Development Course
 
 
 # Full Stack Web Development Course 
-ReactJS, NodeJS, Express, MySQL, Sequelizeなどの技術を用いてフルスタックのWebアプリを開発する方法を学びます。  
+この学習コースでは、ReactJS, NodeJS, Express, MySQL, Sequelizeなどの技術を用いてフルスタックのWebアプリを開発する方法を学びます。  
 
 [![hackmd-github-sync-badge](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg/badge)](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg)
 
