@@ -5,6 +5,9 @@ title: Full Stack Web Development Course
 
 
 # Full Stack Web Development Course 
+
+[![hackmd-github-sync-badge](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg/badge)](https://hackmd.io/7PJ7r95jTDCbQpb21LzhAg)
+
 [動画再生リスト](https://youtube.com/playlist?list=PLpPqplz6dKxUaZ630TY1BFIo5nP-_x-nL)
 
 <hr>
