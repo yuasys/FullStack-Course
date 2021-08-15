@@ -15,7 +15,7 @@ title: Full Stack Web Development Course
 
 ## １．ReactJS, NodeJS, Express, MySQL - Introduction
 
-<p style="color:yellow">Tips!<p>
+![](https://i.imgur.com/lZrmtol.png)
 
 > [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)  
 >[解説動画](https://youtu.be/Hl7diL7SFw8)
