@@ -14,8 +14,15 @@ title: Full Stack Web Development Course
 <hr>
 
 ## １．ReactJS, NodeJS, Express, MySQL - Introduction
+![](https://i.imgur.com/BI6sJU0.jpg)   📆 2021-08-21  
+英語なので、慣れるまでちょっと時間がかかったが、内容はとても分かりやすく楽しめた。  
+この回はバックエンドのスキルがメインであったが、環境構築を含めてNodeJS+Express+Sequelizeの実力に驚いた。簡単なのがまさに正義だ！
 
-![](https://i.imgur.com/lZrmtol.png)
+
+![](https://i.imgur.com/lZrmtol.png)  
+`npm install sequelize`してから、早速`sequelize init` コマンドを打っも`command not found`エラーが出てしまうときの対処法：  
+パスが通っていないことが原因と思われるので、パス付きで打ったら、すんなり実行できた。  
+`node_modules/.bin/sequelize init`
 
 > [ソースコード](https://github.com/machadop1407/FullStack-Course/tree/Episode1/Episode2)  
 >[解説動画](https://youtu.be/Hl7diL7SFw8)
